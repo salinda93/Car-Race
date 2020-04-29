@@ -1,0 +1,23 @@
+﻿  Car Race.cpp
+D:\Visual Studio 2019 workspace\Car Race\Car Race\Car Race.cpp(28,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Visual Studio 2019 workspace\Car Race\Car Race\Car Race.cpp(29,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Visual Studio 2019 workspace\Car Race\Car Race\Car Race.cpp(31,1): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\Visual Studio 2019 workspace\Car Race\Car Race\Car Race.cpp(31,1): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+D:\Visual Studio 2019 workspace\Car Race\Car Race\Car Race.cpp(58,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Visual Studio 2019 workspace\Car Race\Car Race\Car Race.cpp(59,25): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Visual Studio 2019 workspace\Car Race\Car Race\Car Race.cpp(60,26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Visual Studio 2019 workspace\Car Race\Car Race\Car Race.cpp(65,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Visual Studio 2019 workspace\Car Race\Car Race\Car Race.cpp(65,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Visual Studio 2019 workspace\Car Race\Car Race\Car Race.cpp(66,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Visual Studio 2019 workspace\Car Race\Car Race\Car Race.cpp(115,42): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\Visual Studio 2019 workspace\Car Race\Car Race\Car Race.cpp(116,42): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\Visual Studio 2019 workspace\Car Race\Car Race\Car Race.cpp(117,42): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+D:\Visual Studio 2019 workspace\Car Race\Car Race\Car Race.cpp(118,42): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+D:\Visual Studio 2019 workspace\Car Race\Car Race\Car Race.cpp(119,35): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Visual Studio 2019 workspace\Car Race\Car Race\Car Race.cpp(120,35): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Visual Studio 2019 workspace\Car Race\Car Race\Car Race.cpp(128,48): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Visual Studio 2019 workspace\Car Race\Car Race\Car Race.cpp(129,48): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Visual Studio 2019 workspace\Car Race\Car Race\Car Race.cpp(131,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Visual Studio 2019 workspace\Car Race\Car Race\Car Race.cpp(131,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Visual Studio 2019 workspace\Car Race\Car Race\Car Race.cpp(139,49): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Car Race.vcxproj -> D:\Visual Studio 2019 workspace\Car Race\Debug\Car Race.exe
